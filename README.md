@@ -67,7 +67,5 @@ Screenshots:
 Joining a game/entering username: 
 
 <img width="551" height="508" alt="Screenshot 2026-02-22 at 10 53 11 AM" src="https://github.com/user-attachments/assets/4501a2c5-19c9-48b5-b674-9d9411f0a77c" />
-<img width="551" height="508" alt="Screenshot 2026-02-22 at 10 53 11 AM" src="https://github.com/user-attachments/assets/4501a2c5-19c9-48b5-b674-9d9411f0a77c" />
 
-<img width="552" height="504" alt="Screenshot 2026-02-22 at 10 55 06 AM" src="https://github.com/user-attachments/assets/8709e7fc-401e-4461-b254-4ddeb4eeb1db" />
 <img width="552" height="504" alt="Screenshot 2026-02-22 at 10 55 06 AM" src="https://github.com/user-attachments/assets/8709e7fc-401e-4461-b254-4ddeb4eeb1db" />
