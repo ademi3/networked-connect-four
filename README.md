@@ -25,7 +25,7 @@ You should see:
 Starting the server...
 Server is waiting for a client!
 
-Leave this terminal running.
+Leave this terminal running.  
 
 
 Step #2 (Start the First Client):
@@ -37,7 +37,7 @@ From the project root, do:
 cd client  
 mvn javafx:run  
 
-Now, one client window has been started.
+Now, one client window has been started.  
 
 
 Step #3 (Start a Second Client):
@@ -49,7 +49,7 @@ From the project root, do:
 cd client  
 mvn javafx:run  
 
-Now, two client windows have been started.
+Now, two client windows have been started.  
 
 
 Step #4 (Joining a Game):
