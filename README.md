@@ -16,11 +16,9 @@ Open a terminal.
 
 From the project root, do:
 
-cd server
-
-mvn clean compile
-
-mvn exec:java -Dexec.mainClass="server.Server"
+cd server  
+mvn clean compile  
+mvn exec:java -Dexec.mainClass="server.Server"  
 
 You should see:
 
@@ -36,9 +34,8 @@ Open a new terminal window.
 
 From the project root, do:
 
-cd client
-
-mvn javafx:run
+cd client  
+mvn javafx:run  
 
 Now, one client window has been started.
 
@@ -49,9 +46,8 @@ Open another terminal window.
 
 From the project root, do:
 
-cd client
-
-mvn javafx:run
+cd client  
+mvn javafx:run  
 
 Now, two client windows have been started.
 
