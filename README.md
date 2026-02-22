@@ -64,8 +64,17 @@ Now you're all set to start!
 
 Screenshots:  
 
-Joining a game/entering username: 
+Images of two users entering their username/joining a game:
 
 <img width="551" height="508" alt="Screenshot 2026-02-22 at 10 53 11 AM" src="https://github.com/user-attachments/assets/4501a2c5-19c9-48b5-b674-9d9411f0a77c" />
 
 <img width="552" height="504" alt="Screenshot 2026-02-22 at 10 55 06 AM" src="https://github.com/user-attachments/assets/8709e7fc-401e-4461-b254-4ddeb4eeb1db" />
+
+Image of the two users playing in the same game:
+
+<img width="1404" height="779" alt="Screenshot 2026-02-22 at 11 44 39 AM" src="https://github.com/user-attachments/assets/4738758d-9ae0-48d1-85d4-02cc99c1e8d2" />
+<img width="1404" height="779" alt="Screenshot 2026-02-22 at 11 44 39 AM" src="https://github.com/user-attachments/assets/4738758d-9ae0-48d1-85d4-02cc99c1e8d2" />
+
+
+
+
