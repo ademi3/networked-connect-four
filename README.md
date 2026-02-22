@@ -73,7 +73,12 @@ Images of two users entering their username/joining a game:
 Image of the two users playing in the same game:
 
 <img width="1404" height="779" alt="Screenshot 2026-02-22 at 11 44 39 AM" src="https://github.com/user-attachments/assets/4738758d-9ae0-48d1-85d4-02cc99c1e8d2" />
-<img width="1404" height="779" alt="Screenshot 2026-02-22 at 11 44 39 AM" src="https://github.com/user-attachments/assets/4738758d-9ae0-48d1-85d4-02cc99c1e8d2" />
+
+Image of the final result:
+
+<img width="1391" height="776" alt="Screenshot 2026-02-22 at 12 03 37 PM" src="https://github.com/user-attachments/assets/e3d5d648-5102-427e-ae7b-a0b1343723e0" />
+<img width="1391" height="776" alt="Screenshot 2026-02-22 at 12 03 37 PM" src="https://github.com/user-attachments/assets/e3d5d648-5102-427e-ae7b-a0b1343723e0" />
+
 
 
 
