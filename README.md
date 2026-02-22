@@ -4,8 +4,7 @@ The server is a Java socket application that listens for incoming client connect
 players are available, the server automatically pairs them into a game session managed by a GameInstance. Game logic such as move validation, win/draw detection, rematch handling, and player disconnects is
 processed server-side.
 
-The client is a JavaFX GUI application that connects to the server and allows players to visually interact with the game. After providing a unique username, players can make moves on the board interface, send
-chat messages, and respond to rematch requests. The client communicates with the server using serialized message objects.
+The client is a JavaFX GUI application that connects to the server and allows players to visually interact with the game. After providing a unique username, players can make moves on the board interface until there is a winner or the game ends in a tie. The client communicates with the server using serialized message objects.
 
 How to run the project:
 
