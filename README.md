@@ -22,7 +22,7 @@ mvn exec:java -Dexec.mainClass="server.Server"
 
 You should see:
 
-Starting the server...
+Starting the server...  
 Server is waiting for a client!
 
 Leave this terminal running.  
