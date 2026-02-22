@@ -56,7 +56,7 @@ Step #4 (Joining a Game):
 
 Enter two unique usernames (one for each client window).
 
-The server will automatically pair them into a game.
+The server automatically pairs them into a game.
 
 
 Now you're all set to start!
