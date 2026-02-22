@@ -17,7 +17,9 @@ Open a terminal.
 From the project root, do:
 
 cd server
+
 mvn clean compile
+
 mvn exec:java -Dexec.mainClass="server.Server"
 
 You should see:
@@ -35,6 +37,7 @@ Open a new terminal window.
 From the project root, do:
 
 cd client
+
 mvn javafx:run
 
 Now, one client window has been started.
@@ -47,6 +50,7 @@ Open another terminal window.
 From the project root, do:
 
 cd client
+
 mvn javafx:run
 
 Now, two client windows have been started.
@@ -55,6 +59,7 @@ Now, two client windows have been started.
 Step #4 (Joining a Game):
 
 Enter two unique usernames (one for each client window).
+
 The server will automatically pair them into a game.
 
 
