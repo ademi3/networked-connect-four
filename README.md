@@ -9,7 +9,7 @@ The client is a JavaFX GUI application that connects to the server and allows pl
 How to run the project:
 
 
-Step #1 (Start the Server):  
+# Step #1 (Start the Server):  
 
 Open a terminal.
 
@@ -27,7 +27,7 @@ Server is waiting for a client!
 Leave this terminal running.  
 
 
-Step #2 (Start the First Client):  
+# Step #2 (Start the First Client):  
 
 Open a new terminal window.
 
@@ -39,7 +39,7 @@ mvn javafx:run
 Now, one client window has been started.  
 
 
-Step #3 (Start a Second Client):  
+# Step #3 (Start a Second Client):  
 
 Open another terminal window.
 
@@ -51,7 +51,7 @@ mvn javafx:run
 Now, two client windows have been started.  
 
 
-Step #4 (Joining a Game):  
+# Step #4 (Joining a Game):  
 
 Enter two unique usernames (one for each client window).
 
