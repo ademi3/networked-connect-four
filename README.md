@@ -61,7 +61,7 @@ The server automatically pairs them into a game.
 Now you're all set to start!  
   
 
-Screenshots:  
+**Screenshots:**  
 
 Images of two users entering their username/joining a game:
 
